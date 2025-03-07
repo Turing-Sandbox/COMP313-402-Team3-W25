@@ -7,7 +7,7 @@ import "@/app/styles/global.scss";
 
 export const metadata: Metadata = {
   title: "Summarizz",
-  description: "TL;DR for your articles",
+  description: "TL;DR for your articles, videos, and more.",
 };
 
 export default function RootLayout({
